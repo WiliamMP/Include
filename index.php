@@ -1,4 +1,5 @@
 <?php
 
-require_once('website/head.php');
-require_once('website/header.php');
+require_once('default/head.php');
+
+require_once('default/body.php');
